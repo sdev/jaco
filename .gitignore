@@ -1,0 +1,8 @@
+/bin/
+
+.metadata/version.ini
+
+.project
+
+# sdev #
+.metadata/*
