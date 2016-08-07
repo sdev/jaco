@@ -34,6 +34,7 @@ public class VowelCounter {
 		}
 	}
 	
+	// Calculate Number of vowels
 	public int getStat(){
 		int vowelCount = 0;
 		
