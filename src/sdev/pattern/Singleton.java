@@ -13,7 +13,7 @@ public class Singleton {
 	 * @param args
 	 */
 	
-	private Singleton() {
+	protected Singleton() {
 		System.out.println("Creating New Instance");
 	}
 	
